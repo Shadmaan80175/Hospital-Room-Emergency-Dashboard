@@ -1,5 +1,8 @@
 ## 🏥 Hospital Emergency Room Dashboard (Excel)
 
+<img width="1562" height="617" alt="Final Dashboard of Hospital Emergyency Room" src="https://github.com/user-attachments/assets/ed65ae95-338f-45e1-8bc9-c7a6bd8adb20" />
+
+
 📌 Project Overview
 
 This project presents an interactive Excel dashboard designed to analyze and monitor Hospital Emergency Room (ER) performance.
